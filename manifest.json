@@ -1,0 +1,29 @@
+{
+  "title": "KMZ publicos mina",
+  "items": [
+    {
+      "key": "evento-1",
+      "title": "Evento 1",
+      "fileName": "evento-1.kmz",
+      "downloadUrl": "kmz/evento-1.kmz",
+      "fingerprint": "evento-1-v1",
+      "lastModifiedUtc": "2026-04-05T10:30:00Z"
+    },
+    {
+      "key": "evento-2",
+      "title": "Evento 2",
+      "fileName": "evento-2.kmz",
+      "downloadUrl": "kmz/evento-2.kmz",
+      "fingerprint": "evento-2-v1",
+      "lastModifiedUtc": "2026-04-05T10:31:00Z"
+    },
+    {
+      "key": "evento-3",
+      "title": "Evento 3",
+      "fileName": "evento-3.kmz",
+      "downloadUrl": "kmz/evento-3.kmz",
+      "fingerprint": "evento-3-v1",
+      "lastModifiedUtc": "2026-04-05T10:32:00Z"
+    }
+  ]
+}

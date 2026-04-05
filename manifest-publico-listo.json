@@ -1,0 +1,23 @@
+{
+  "title": "KMZ publicos mina",
+  "items": [
+    {
+      "key": "kmz-001",
+      "title": "KMZ 001",
+      "fileName": "kmz-001.kmz",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=REEMPLAZA_FILE_ID_1",
+      "sourceUrl": "https://drive.google.com/file/d/REEMPLAZA_FILE_ID_1/view?usp=sharing",
+      "fingerprint": "kmz-001-v1",
+      "lastModifiedUtc": "2026-04-05T10:30:00Z"
+    },
+    {
+      "key": "kmz-002",
+      "title": "KMZ 002",
+      "fileName": "kmz-002.kmz",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=REEMPLAZA_FILE_ID_2",
+      "sourceUrl": "https://drive.google.com/file/d/REEMPLAZA_FILE_ID_2/view?usp=sharing",
+      "fingerprint": "kmz-002-v1",
+      "lastModifiedUtc": "2026-04-05T11:00:00Z"
+    }
+  ]
+}
